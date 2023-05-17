@@ -7,17 +7,9 @@ To compile the sources, invoke:
 ```sh
   make
 ```
-To compile the API documentation, invoke:
-```sh
-  make doc
-```
 To run the code, invoke:
 ```sh
   make run
-```
-To run all the previous command in this order, invoke:
-```sh
-  make all
 ```
 # Change Kademlia Simulation Configuration
 To change network configuration (e.g., churn rate, network size), see [example.cfg](https://github.com/keruwang/Robustness-of-Kademlia-Performance-to-Churn-Rates/blob/2245c2f45ad45614faf0df88df615ca737208813/example.cfg)
